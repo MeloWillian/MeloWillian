@@ -170,5 +170,6 @@
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120§ion=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3467eb&height=120&section=footer"/>
+
 
