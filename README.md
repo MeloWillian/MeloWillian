@@ -73,9 +73,7 @@
     src="https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
     alt="React Native"
   />
-  <img 
-    src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" 
-    alt="GitLab" />
+ 
 </div>
 
 
@@ -98,6 +96,9 @@
   <img 
     src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" 
     alt="NodeJS" />
+   <img 
+    src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" 
+    alt="GitLab" />
 </div>
 
 <br />
