@@ -26,13 +26,13 @@
   <img
     width="49%"
     height="190px"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MeloWillian&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
     alt="Willian de Melo GitHub stats."
   />
   <img
     width="49%"
     height="190px"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&hide_border=true&count_private=true&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=MeloWillian&hide_border=true&count_private=true&show_icons=true&theme=tokyonight"
     alt="Willian de Melo GitHub stats."
   />
 </div>
@@ -95,30 +95,30 @@
   <img
     width="49%"
     height="220px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeloWillian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
     alt="Willian de Melo GitHub stats."
   />
-  <!-- Substitua o link abaixo pelo seu perfil -->
+  
   <img
     width="49%"
     height="220px"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU_USUARIO_GITHUB&theme=react"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MeloWillian&theme=react"
     alt="Willian de Melo GitHub stats."
   />
 </div>
 
 <br />
 
-<!-- Substitua o link abaixo pelo seu perfil -->
+
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&hide_border=true&theme=react-dark"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MeloWillian&hide_border=true&theme=react-dark"
   alt="Github activity graph"
 />
-<!-- Substitua o link abaixo pelo seu perfil -->
+
 <img
   width="100%"
-  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO_GITHUB&theme=react"
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeloWillian&theme=react"
   alt="Github activity graph"
 />
 
@@ -126,12 +126,16 @@
 </br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/willian-melo-995a93307/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/SEU_INSTAGRAM/" target="_blank">
+  <a href="https://www.instagram.com/_melowillian/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/5583986730594">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
 
@@ -145,7 +149,7 @@
   <p align="center">
     <img
       align="center"
-      src="https://profile-counter.glitch.me/SEU_USUARIO_GITHUB/count.svg"
+      src="https://profile-counter.glitch.me/MeloWillian/count.svg"
     />
   </p>
 </div>
