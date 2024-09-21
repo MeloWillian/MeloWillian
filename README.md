@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3467eb&height=120&section=header"/>
 
 <h1>
   Olá! Eu sou <span style="color: #00bfbf;">Willian de Melo</span>
