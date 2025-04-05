@@ -5,7 +5,7 @@
 </h1>
 
 <p>
-  Técnico em Informática com experiência em programação, atualmente cursando Análise e Desenvolvimento de Sistemas no IFPB. Minha paixão está no desenvolvimento web e mobile, sempre buscando aprimorar minhas habilidades em Java, JavaScript, Python, React JS e React Native.
+  Técnico em Informática pelo IFPB com experiência em programação, atualmente cursando Análise e Desenvolvimento de Sistemas no IFPB. Minha paixão está no desenvolvimento web e mobile, sempre buscando aprimorar minhas habilidades em Java, JavaScript, Python, React JS e React Native.
 </p>
 
 <p>
