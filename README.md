@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Algoritmos-000000?style=for-the-badge&logo=algorithm&logoColor=white" alt="Algoritmos"/>
 </div>
 
 #### Frontend:
@@ -71,6 +70,7 @@
 <div>
   <img src="https://img.shields.io/badge/Redes%20de%20Computadores-000000?style=for-the-badge&logo=network&logoColor=white" alt="Redes"/>
   <img src="https://img.shields.io/badge/Suporte%20Técnico-000000?style=for-the-badge&logo=technical-support&logoColor=white" alt="Suporte Técnico"/>
+  <img src="https://img.shields.io/badge/Algoritmos-000000?style=for-the-badge&logo=algorithm&logoColor=white" alt="Algoritmos"/>
 </div>
 
 <br />
