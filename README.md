@@ -2,7 +2,7 @@
 
 <h1 align="center">
   Willian Melo | <span style="color: #00bfbf;">Desenvolvedor Full Stack</span>
-  <img width="30" height="30" alt="emoji" src="https://github.com/user-attachments/assets/dcc33c1b-205d-4959-b944-af7cd18ae321" style="vertical-align: middle;" />
+<img width="30" height="30" alt="emoji" src="https://github.com/user-attachments/assets/936c634a-fc0c-4b38-b0fb-8e0cc54c74f8" style="vertical-align: middle;"/>
 </h1>
 
 <p align="center">
