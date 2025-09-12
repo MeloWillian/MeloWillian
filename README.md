@@ -122,7 +122,9 @@
 
 <div align="center">
   <p align="center"><b>Visitantes do Perfil:</b></p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/MeloWillian/count.svg" /></p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=MeloWillian&color=3467eb&style=for-the-badge" alt="Profile views"/>
+  </p>
 </div>
 
 <br />
