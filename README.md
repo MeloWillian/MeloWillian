@@ -5,51 +5,54 @@
 </h1>
 
 <p align="center">
-  <strong>Desenvolvedor Web e Mobile | Técnico em Informática & Graduando em Análise e Desenvolvimento de Sistemas (IFPB)</strong>
+  <strong>Desenvolvedor Full Stack | Técnico em Informática & Graduando em Análise e Desenvolvimento de Sistemas (IFPB)</strong>
 </p>
 
 <p>
-  Sou um desenvolvedor apaixonado por tecnologia, com formação Técnica em Informática e atualmente cursando Análise e Desenvolvimento de Sistemas no IFPB. Meu foco principal é no desenvolvimento de aplicações Web (React JS, Node.js) e Mobile (React Native), buscando sempre criar soluções eficientes, escaláveis e com ótima experiência de usuário.
+  Desenvolvedor Full Stack no Laboratório <strong>IDE.IA (IFPB)</strong>, atuando em projetos de pesquisa aplicada e inovação tecnológica. Formação Técnica em Informática e atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong>.
 </p>
 
 <p>
-  Em meus projetos, busco aplicar boas práticas de desenvolvimento, como os princípios <strong>SOLID</strong>, conceitos de <strong>Programação Orientada a Objetos (POO)</strong> e <strong>Padrões de Projeto (Design Patterns)</strong>, visando a qualidade, manutenibilidade e robustez do código. Tenho sólida base em <strong>HTML</strong> e <strong>CSS</strong> para construção de interfaces web responsivas e semanticamente corretas.
+  Experiência em <strong>desenvolvimento web e mobile</strong>, com domínio em <strong>Java, Spring Boot, Python, JavaScript, ReactJS, React Native e Node.js</strong>. Atuação com <strong>SQL e PL/SQL</strong> para modelagem, consultas e integração de bancos de dados, além de <strong>APIs REST</strong> e boas práticas de arquitetura de software.
 </p>
 
 <p>
-  Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores. Vamos conectar e transformar ideias em realidade!
+  Competências consolidadas em <strong>programação orientada a objetos (POO)</strong>, <strong>algoritmos</strong>, <strong>estruturas de dados</strong> e <strong>padrões de projeto</strong>. Experiência em <strong>versionamento com Git/GitHub/GitLab</strong>, metodologias ágeis e princípios <strong>SOLID</strong>, visando qualidade, escalabilidade e manutenibilidade de código.
 </p>
+
 <br />
 <hr />
-<br />
 <br />
 
 ## 🛠️ Minhas Habilidades Técnicas
 
 #### Linguagens & Fundamentos:
 <div>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-E38C00?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PLSQL-cc0000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-E38C00?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
 </div>
 
-#### Frontend:
+#### Frontend & Mobile:
 <div>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white" alt="MobX"/>
 </div>
 
 #### Backend:
 <div>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
 </div>
 
 #### Banco de Dados:
 <div>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </div>
 
 #### Ferramentas & Plataformas:
@@ -61,13 +64,13 @@
 
 #### Conceitos & Metodologias:
 <div>
-  <img src="https://img.shields.io/badge/SOLID- Principles-000?style=for-the-badge&logo=dependabot&logoColor=white" alt="SOLID"/>
+  <img src="https://img.shields.io/badge/SOLID-Principles-000?style=for-the-badge&logo=dependabot&logoColor=white" alt="SOLID"/>
   <img src="https://img.shields.io/badge/POO-Oriented%20Object%20Programming-000?style=for-the-badge&logo=bookstack&logoColor=white" alt="POO"/>
   <img src="https://img.shields.io/badge/Design%20Patterns-Patterns-000?style=for-the-badge&logo=opslevel&logoColor=white" alt="Design Patterns"/>
   <img src="https://img.shields.io/badge/API%20REST-APIs-000?style=for-the-badge&logo=fastapi&logoColor=white" alt="API REST"/>
 </div>
 
-#### Outras Habilidades:
+#### Outras Competências:
 <div>
   <img src="https://img.shields.io/badge/Redes%20de%20Computadores-000000?style=for-the-badge&logo=network&logoColor=white" alt="Redes"/>
   <img src="https://img.shields.io/badge/Suporte%20Técnico-000000?style=for-the-badge&logo=technical-support&logoColor=white" alt="Suporte Técnico"/>
@@ -99,7 +102,7 @@
 ## 📫 Conecte-se Comigo
 
 <p align="center">
-  Estou aberto a novas conexões, colaborações e oportunidades profissionais. Vamos conversar!
+  Vamos conectar! Acesse meus contatos abaixo:
 </p>
 
 <div align="center">
