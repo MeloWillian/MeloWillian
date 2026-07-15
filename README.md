@@ -85,13 +85,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=MeloWillian&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="Estatísticas Gerais - Willian de Melo" />
+  <br />
   <img width="49%" height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=MeloWillian&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Sequência de Contribuições - Willian de Melo" />
-  <br />
-  <br />
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeloWillian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens Mais Usadas - Willian de Melo" />
-  <img width="49%" height="190px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeloWillian&theme=react" alt="Detalhes do Perfil - Willian de Melo" />
-  <br />
   <br />
   <img align="center" width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MeloWillian&hide_border=true&theme=react-dark" alt="Gráfico de Atividade - Willian de Melo"/>
 </div>
