@@ -102,7 +102,6 @@
 
 #### IA & Engenharia de Contexto:
 <div>
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
   <img src="https://img.shields.io/badge/MCP-000?style=for-the-badge" alt="MCP"/>
   <img src="https://img.shields.io/badge/OpenSpec-000?style=for-the-badge" alt="OpenSpec"/>
   <img src="https://img.shields.io/badge/Spec--Driven%20Development-000?style=for-the-badge" alt="Spec-Driven Development"/>
