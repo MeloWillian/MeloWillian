@@ -128,19 +128,6 @@
 <hr />
 <br />
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <br />
-  <img width="49%" height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=MeloWillian&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Sequência de Contribuições - Willian de Melo" />
-  <br />
-  <img align="center" width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MeloWillian&hide_border=true&theme=react-dark" alt="Gráfico de Atividade - Willian de Melo"/>
-</div>
-
-<br />
-<hr />
-<br />
-
 ## 📫 Conecte-se Comigo
 
 <p align="center">
