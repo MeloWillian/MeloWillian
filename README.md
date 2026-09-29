@@ -1,9 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b23a3a,100:e85f5f&height=120&section=header"/>
 
-<p align="center">
-  <img src="./assets/willian-cutout.png" width="200" alt="Foto de Willian Melo"/>
-</p>
-
 <h1 align="center">Willian Melo</h1>
 
 <p align="center">
