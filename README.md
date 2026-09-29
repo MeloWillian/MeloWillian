@@ -1,35 +1,42 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3467eb&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b23a3a,100:e85f5f&height=120&section=header"/>
 
-<h1 align="center">
-  Willian Melo | <span style="color: #00bfbf;">Desenvolvedor Full Stack</span>
-<img width="30" height="30" alt="emoji" src="https://github.com/user-attachments/assets/936c634a-fc0c-4b38-b0fb-8e0cc54c74f8" style="vertical-align: middle;"/>
-</h1>
+<p align="center">
+  <img src="./assets/willian-cutout.png" width="200" alt="Foto de Willian Melo"/>
+</p>
+
+<h1 align="center">Willian Melo</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=1&pause=100000&color=E85F5F&center=true&vCenter=true&repeat=false&width=320&height=34&lines=Desenvolvedor+Full+Stack" alt="Desenvolvedor Full Stack"/>
+</p>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack | Técnico em Informática & Graduando em Análise e Desenvolvimento de Sistemas (IFPB)</strong>
 </p>
 
-<p>
-  Desenvolvedor Full Stack no Laboratório <strong>IDE.IA (IFPB)</strong>, atuando em projetos de pesquisa aplicada e inovação tecnológica. Formação Técnica em Informática concluída em 2023 e atualmente no último período de <strong>Análise e Desenvolvimento de Sistemas</strong>, com conclusão prevista para 2026.2.
+<p align="center">
+  <a href="https://melowillian-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20portf%C3%B3lio-e85f5f?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver portfólio"/>
+  </a>
 </p>
 
 <p>
-  Experiência em <strong>desenvolvimento web e mobile</strong> de ponta a ponta: frontend com <strong>React, Next.js e React Native/Expo</strong>; backend com <strong>Java, Spring Boot e Node.js</strong>; persistência com <strong>PostgreSQL, H2</strong> e migrations versionadas. Também trabalho com <strong>Docker, Redis</strong> e armazenamento S3-compatible (<strong>MinIO</strong>) para orquestrar arquiteturas mais completas, e automação de fluxos com <strong>n8n</strong>.
+  Sou <strong>Desenvolvedor Full Stack</strong> e atuo no <strong>Laboratório IDE.IA do IFPB</strong>, em projetos de pesquisa aplicada e inovação tecnológica que incluem sistemas corporativos de grande porte para empresas já consolidadas no mercado. É um contexto que me colocou no ciclo real de software: levantamento de requisitos, arquitetura, implementação, versionamento em equipe e entrega.
 </p>
 
 <p>
-  Competências consolidadas em <strong>programação orientada a objetos (POO)</strong>, <strong>algoritmos</strong>, <strong>estruturas de dados</strong> e <strong>padrões de projeto</strong>, com prática em <strong>testes (JUnit, TDD/BDD)</strong>, modelagem <strong>UML</strong> e gerência de configuração. Versionamento com <strong>Git/GitHub/GitLab</strong>, metodologias ágeis e princípios <strong>SOLID</strong>, visando qualidade, escalabilidade e manutenibilidade de código.
+  Sou <strong>Técnico em Informática</strong> pelo IFPB (Campus Esperança) e curso o <strong>último período de Análise e Desenvolvimento de Sistemas</strong> na mesma instituição, com conclusão prevista para 2026.2. A formação técnica me deu a base prática de redes, suporte e infraestrutura; a graduação acrescentou o repertório de engenharia: <strong>POO, algoritmos, estruturas de dados, padrões de projeto, testes de software e princípios SOLID</strong>.
 </p>
 
 <p>
-  Também tenho me aprofundado em <strong>engenharia de contexto para agentes de IA</strong> (Agentes de Código, MCP, Frameworks de Geração de Specs, Spec-Driven Development) e em <strong>ciência de dados e machine learning</strong>.
+  Meu foco é entender o problema antes de escrever a primeira linha de código: desenho a arquitetura, modelo os dados e só então implemento. Como diferencial, conduzo cada mudança por especificação e mantenho o <strong>harness</strong> em que os agentes de código operam, de modo que a entrega seja verificável, e não apenas plausível.
 </p>
 
 <br />
 <hr />
 <br />
 
-## 🛠️ Minhas Habilidades Técnicas
+## Minhas Habilidades Técnicas
 
 #### Linguagens & Fundamentos:
 <div>
@@ -128,18 +135,21 @@
 <hr />
 <br />
 
-## 📫 Conecte-se Comigo
+## Conecte-se Comigo
 
 <p align="center">
   Vamos conectar! Acesse meus contatos abaixo:
 </p>
 
 <div align="center">
+  <a href="https://melowillian-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-e85f5f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
+  </a>
   <a href="https://www.linkedin.com/in/willian-melo-995a93307/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-b23a3a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:melowillian.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-26282c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
@@ -148,10 +158,10 @@
 <div align="center">
   <p align="center"><b>Visitantes do Perfil:</b></p>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MeloWillian&color=3467eb&style=for-the-badge" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=MeloWillian&color=e85f5f&style=for-the-badge" alt="Profile views"/>
   </p>
 </div>
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3467eb&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e85f5f,100:b23a3a&height=120&section=footer"/>
